@@ -46,8 +46,8 @@ const Bio = () => {
       <div className="flex-column">
         <p className="greeting">¡Bienvenido👋!</p>
       {author?.name && (
-        <p>
-          En esta web vas a encontrar apuntes sobre Google Fotos. Written by {author.name}, {author?.summary || null}
+        <p className="about-avatar">
+          En esta web vas a encontrar apuntes sobre Google Fotos. Creado por {author.name}, {author?.summary || null}
           {` `}
         </p>
       )}</div>

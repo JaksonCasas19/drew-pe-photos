@@ -18,4 +18,8 @@ thumbnail: https://firebasestorage.googleapis.com/v0/b/im-pe-photo.appspot.com/o
 
 ![](https://firebasestorage.googleapis.com/v0/b/im-pe-photo.appspot.com/o/pe-google-photos-mobile%2F14.png?alt=media&token=5f6452a4-3c5f-4b51-8110-d85387803289)
 
-> Si la película no cargar completamente por más de 24 horas lo más probable es que esté teniendo algún fallo en la aplicación. Por favor vaya a la configuración del dispositivo y luego en Ajustes > Aplicaciones > Todas > Google Fotos > Administrar espacio > Borrar todos los datos. Esto reiniciará la aplicación sin dañar la imagen en el dispositivo o la nube. Una vez realizado este proceso vuelve a la aplicación de Google Fotos.
+> Si la película se demora en finalizar por más de 24 horas lo más probable es que esté teniendo algún fallo en la aplicación. Para solucionarlo se debe ir a la configuración del dispositivo y luego en Ajustes > Aplicaciones > Todas > Google Fotos > Administrar espacio > Borrar todos los datos. Esto reiniciará la aplicación sin dañar la imagen en el dispositivo o la nube. Una vez realizado este proceso vuelve a la aplicación de Google Fotos.
+
+Muy importante resaltar que al crear una película se guardara en la nube de Google Fotos esto significa que solo se podrá ver con conexión a internet, si lo quieres guardar en tu dispositivo se debe **descargar** la película.
+
+¡Excelente! Esta es la tercera parte de nuestro tutorial.

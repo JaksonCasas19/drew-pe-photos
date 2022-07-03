@@ -12,7 +12,7 @@ thumbnail: https://firebasestorage.googleapis.com/v0/b/im-pe-photo.appspot.com/o
 
 ![](https://firebasestorage.googleapis.com/v0/b/im-pe-photo.appspot.com/o/pe-google-photos-mobile%2F3.png?alt=media&token=f4d907de-a921-4e3b-b6ff-22984416bd15)
 
-### Problemas al realizar copia de seguridad
+### ¿Problemas al realizar copia de seguridad?
 
->Si el estado de preparación de fotos se demora en finalizar en la aplicación de Google Fotos.
-Esto depende de algunos factores quizás estas utilizando datos móviles, si es el caso lo más recomendable es usar el wifi de casa y que sea estable, la siguiente opción es borrar datos, para ello vaya a la configuración del dispositivo y luego en Aplicaciones > Todas > Fotos > Almacenamiento y toque eliminar datos. Esto reiniciará la aplicación sin dañar la imagen en el dispositivo y de la nube.
+> Si el estado de preparación de fotos se demora en finalizar en la aplicación de Google Fotos.
+> Esto depende de algunos factores quizás estas utilizando datos móviles, si es el caso lo más recomendable es usar el wifi de casa y que sea estable, la siguiente opción es borrar datos, para ello vaya a la configuración del dispositivo y luego en Aplicaciones > Todas > Fotos > Almacenamiento y toque eliminar datos. Esto reiniciará la aplicación sin dañar la imagen en el dispositivo y de la nube.

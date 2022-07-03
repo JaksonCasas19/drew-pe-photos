@@ -22,6 +22,4 @@ En unos casos el correo puede tardar varios días debido a la gran cantidad de e
 ![](https://firebasestorage.googleapis.com/v0/b/im-pe-photo.appspot.com/o/pe-google-photos-mobile%2F18.png?alt=media&token=db9b69b3-9589-448b-b9fa-eaf00712c2d8)
 
 ### Tomar en cuenta
-> La descarga de archivos tiene una expiración.
- 
 > Las fotos se bajan en formato JPG, dentro de un archivo ZIP que hay que descomprimir. En ese mismo archivo también verás un montón de ficheros JSON, que son los metadatos de las fotos (no hay que borrarlos).

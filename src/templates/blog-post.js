@@ -42,18 +42,36 @@ const BlogPostTemplate = ({ data, location }) => {
             justifyContent: `space-between`,
             listStyle: `none`,
             padding: 0,
+            paddingTop: 5,
           }}
+          className="ul-blog"
         >
           <li>
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
+              <Link
+                to={previous.fields.slug}
+                rel="prev"
+                style={{
+                  paddingLeft: 15,
+                  paddingTop: 10,
+                  textDecoration: `none`,
+                }}
+              >
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={next.fields.slug} rel="next">
+              <Link
+                to={next.fields.slug}
+                rel="next"
+                style={{
+                  paddingRight: 15,
+                  paddingTop: 10,
+                  textDecoration: `none`,
+                }}
+              >
                 {next.frontmatter.title} →
               </Link>
             )}

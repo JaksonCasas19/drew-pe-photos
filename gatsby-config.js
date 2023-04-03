@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Drew PE Photos`,
     author: {
-      name: `Jakson`,
+      name: `Cesar`,
       summary: `Google Diamond Product Expert.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,

@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Helmet  from "react-helmet"
+import Helmet from "react-helmet"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -13,24 +13,23 @@ const BlogIndex = ({ data, location }) => {
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
-        <Seo title="All posts" />
+        <Seo title="Inicio" />
         <Bio />
-        <p>
-          No blog posts found.
-        </p>
+        <p>No blog posts found.</p>
       </Layout>
     )
   }
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="All posts" />
+      <Seo title="Inicio" />
       <Helmet>
-      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Helmet>
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
+          console.log(post)
           const title = post.frontmatter.title || post.fields.slug
 
           return (
@@ -43,7 +42,9 @@ const BlogIndex = ({ data, location }) => {
                 <header>
                   <h2>
                     <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
+                      <span itemProp="headline" className="post-list-title">
+                        {title}
+                      </span>
                     </Link>
                   </h2>
                   <small>{post.frontmatter.date}</small>

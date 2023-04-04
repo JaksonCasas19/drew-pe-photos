@@ -28,7 +28,6 @@ const Bio = () => {
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
-  const social = data.site.siteMetadata?.social
 
   return (
     <div className="bio">
@@ -48,7 +47,7 @@ const Bio = () => {
         <p className="greeting">¡Bienvenido👋!</p>
         {author?.name && (
           <p className="about-avatar">
-            En esta web vas a encontrar apuntes sobre Google Fotos.
+            En este blog vas a encontrar apuntes sobre Google Fotos.
             {` `}
           </p>
         )}

@@ -25,6 +25,11 @@ const BlogIndex = ({ data, location }) => {
       <Seo title="Inicio" />
       <Helmet>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3674470558368196"
+          crossorigin="anonymous"
+        ></script>
       </Helmet>
       <Bio />
       <ol style={{ listStyle: `none` }}>

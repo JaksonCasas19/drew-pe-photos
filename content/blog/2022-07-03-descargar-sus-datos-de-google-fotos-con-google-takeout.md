@@ -15,11 +15,33 @@ Antes de iniciar se recomienda realizar este proceso desde ordenador, luego debe
 ![](https://firebasestorage.googleapis.com/v0/b/im-pe-photo.appspot.com/o/pe-google-photos-mobile%2F16.png?alt=media&token=6622d878-105b-405d-9b5b-5ab4bb6887eb)
 
 ![](https://firebasestorage.googleapis.com/v0/b/im-pe-photo.appspot.com/o/pe-google-photos-mobile%2F17.png?alt=media&token=3c69de94-3d0b-4d20-b10b-78d0e274ae03)
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3674470558368196"
+     crossorigin="anonymous"></script>
+
+<!-- Anuncio en Drew PE Photos -->
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3674470558368196"
+     data-ad-slot="8576963550"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Luego de crear la exportación puede cerrar la página y verificar en su correo electrónico  el enlace de exportación.
+
 ### Importante
+
 En unos casos el correo puede tardar varios días debido a la gran cantidad de elementos almacenados en la galería, igual estar muy atento a su bandeja de entrada. 
 
 ![](https://firebasestorage.googleapis.com/v0/b/im-pe-photo.appspot.com/o/pe-google-photos-mobile%2F18.png?alt=media&token=db9b69b3-9589-448b-b9fa-eaf00712c2d8)
 
 ### Tomar en cuenta
+
 > Las fotos se bajan en formato JPG, dentro de un archivo ZIP que hay que descomprimir. En ese mismo archivo también verás un montón de ficheros JSON, que son los metadatos de las fotos (no hay que borrarlos).

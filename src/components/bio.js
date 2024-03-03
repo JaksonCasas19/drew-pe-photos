@@ -47,7 +47,8 @@ const Bio = () => {
         <p className="greeting">¡Bienvenido👋!</p>
         {author?.name && (
           <p className="about-avatar">
-            En este blog vas a encontrar apuntes sobre Google Fotos.
+            En este blog, te guiaremos paso a paso por las increíbles funciones
+            que ofrece esta aplicación.
             {` `}
           </p>
         )}
